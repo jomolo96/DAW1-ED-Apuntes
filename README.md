@@ -17,7 +17,7 @@ Curso 2017-18
 [Unidad 6: Elaboración de diagramas de comportamiento](6.DIAGRAMAS_COMPORTAMIENTO.md)    
 
 
-## GitHub de alumnado
+##  GitHub de alumnado
 
 - [Alaya Muñoz, Juan Manuel](https://github.com/JMTR25)
 - [Álvarez-Ossorio Martín, Rafael](https://github.com/raom30)
